@@ -1,0 +1,42 @@
+2020-01-06 02:06:13|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   65
+\n
+2020-01-06 02:06:29|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   65
+\n
+2020-01-06 02:06:31|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   65
+\n
+2020-01-06 02:06:40|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   65
+\n
+2020-01-06 02:07:37|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:08:26|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:08:41|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:08:44|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:14:19|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:15:43|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:21:44|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:22:04|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:22:40|ERROR|STRICT_REEOR|2   array_unshift() expects parameter 1 to be array, null given
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   64
+\n
+2020-01-06 02:24:04|ERROR|ERROR_FATAL|1   Class Our\Router contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Yaf\Route_Interface::assemble)
+ Error on line   H:\Phpstudy2019\PHPTutorial\WWW\practice\my_yaf\application\library\Our\Router.php   12
+\n
